@@ -1,3 +1,10 @@
+
+News web app that shows top headlines of the day updated every 5 minutes. 
+
+Uses newsapi.org apis to fetch latest news. 
+
+Edit config.js file to configure your newsapi.org developer api key and news of the country you are interested in
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
